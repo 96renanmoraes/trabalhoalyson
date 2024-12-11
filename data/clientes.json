@@ -1,0 +1,66 @@
+{
+    "123.456.789-01": {
+        "nome": "Aleatrio da Silva",
+        "data_nascimento": "2022-03-12",
+        "email": "aleatrio.m@example.com",
+        "cpf": "123.456.789-01"
+    },
+    "555.555.555-55": {
+        "nome": "Cinco de Oliveira",
+        "data_nascimento": "2025-05-05",
+        "email": "cinco.oliveira@example.com",
+        "cpf": "555.555.555-55"
+    },
+    "222.222.222-22": {
+        "nome": "Dois dos Santos",
+        "data_nascimento": "2022-02-02",
+        "email": "dois.santos@example.com",
+        "cpf": "222.222.222-22"
+    },
+    "888.888.888-88": {
+        "nome": "Oito dos Santos",
+        "data_nascimento": "2025-08-08",
+        "email": "oito.santos@example.com",
+        "cpf": "888.888.888-88"
+    },
+    "444.444.444-44": {
+        "nome": "Quatro da silva",
+        "data_nascimento": "2004-04-04",
+        "email": "quatro.silva@example.com",
+        "cpf": "444.444.444-44"
+    },
+    "234.234.234-22": {
+        "nome": "Renan Moraes",
+        "data_nascimento": "1996-10-21",
+        "email": "renan.m@exemplo.com",
+        "cpf": "234.234.234-22"
+    },
+    "666.666.666-66": {
+        "nome": "Seis da Silva",
+        "data_nascimento": "2026-06-06",
+        "email": "seis.silva@example.com",
+        "cpf": "666.666.666-66"
+    },
+    "777.777.777-77": {
+        "nome": "Sete de Oliveira",
+        "data_nascimento": "2025-07-07",
+        "email": "sete.oliveira@exmaple.com",
+        "cpf": "777.777.777-77"
+    },
+    "333.333.333-33": {
+        "nome": "tr\u00eas da silva",
+        "data_nascimento": "3333-03-31",
+        "email": "tres.silva@example.com",
+        "cpf": "333.333.333-33"
+    },
+    "111.111.111-11": {
+        "nome": "Um da Silva",
+        "data_nascimento": "01/01/2001",
+        "email": "um.silva@example.com"
+    },
+    "000.000.000-00": {
+        "nome": "Zero da Silva",
+        "data_nascimento": "30/01/2001",
+        "email": "zero.silva@example.com"
+    }
+}

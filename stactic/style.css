@@ -1,0 +1,31 @@
+/* Garantir que o conteúdo ocupe toda a altura da tela */
+html, body {
+    height: 100%;
+    margin: 0;
+
+}
+
+
+
+
+/* Classe para centralizar todo o conteúdo */
+.full-height {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Fontes personalizadas */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700");
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+
+/* Adicionando algum espaçamento ao redor dos formulários */
+.form-consulta, .form-cadastro {
+    margin-bottom: 30px 10px;
+}
